@@ -1,0 +1,12 @@
+- adx_name: 管理者に変更を許可
+  adx_right: 1
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 864f1c93-43cc-ed11-a7c7-000d3aa0d82f
+  adx_webpageaccesscontrolruleid: 824f1c93-43cc-ed11-a7c7-000d3aa0d82f
+  adx_webpageid: 794f1c93-43cc-ed11-a7c7-000d3aa0d82f
+- adx_name: コンテンツの変更を許可
+  adx_right: 1
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole: []
+  adx_webpageaccesscontrolruleid: 834f1c93-43cc-ed11-a7c7-000d3aa0d82f

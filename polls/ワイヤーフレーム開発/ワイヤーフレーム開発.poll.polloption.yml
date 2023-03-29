@@ -1,0 +1,18 @@
+- adx_answer: 選択 B
+  adx_displayorder: 2
+  adx_name: Choice B
+  adx_pollid: 819c218d-43cc-ed11-a7c7-000d3aa0d82f
+  adx_polloptionid: a89c218d-43cc-ed11-a7c7-000d3aa0d82f
+  adx_votes: 5
+- adx_answer: 選択 A
+  adx_displayorder: 1
+  adx_name: Choice A
+  adx_pollid: 819c218d-43cc-ed11-a7c7-000d3aa0d82f
+  adx_polloptionid: ae9c218d-43cc-ed11-a7c7-000d3aa0d82f
+  adx_votes: 3
+- adx_answer: 選択 C
+  adx_displayorder: 3
+  adx_name: Choice C
+  adx_pollid: 819c218d-43cc-ed11-a7c7-000d3aa0d82f
+  adx_polloptionid: b49c218d-43cc-ed11-a7c7-000d3aa0d82f
+  adx_votes: 1

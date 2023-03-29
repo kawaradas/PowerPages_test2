@@ -1,0 +1,12 @@
+- adx_answer: 有効
+  adx_displayorder: 1
+  adx_name: Yes
+  adx_pollid: 869c218d-43cc-ed11-a7c7-000d3aa0d82f
+  adx_polloptionid: ad9c218d-43cc-ed11-a7c7-000d3aa0d82f
+  adx_votes: 6
+- adx_answer: 無効
+  adx_displayorder: 2
+  adx_name: No
+  adx_pollid: 869c218d-43cc-ed11-a7c7-000d3aa0d82f
+  adx_polloptionid: af9c218d-43cc-ed11-a7c7-000d3aa0d82f
+  adx_votes: 2

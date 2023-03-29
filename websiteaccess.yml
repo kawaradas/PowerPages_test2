@@ -1,0 +1,15 @@
+- adx_managecontentsnippets: false
+  adx_managesitemarkers: false
+  adx_manageweblinksets: false
+  adx_name: 基本ポータル プレビューのアクセス許可
+  adx_previewunpublishedentities: true
+  adx_websiteaccess_webrole: []
+  adx_websiteaccessid: 894f1c93-43cc-ed11-a7c7-000d3aa0d82f
+- adx_managecontentsnippets: true
+  adx_managesitemarkers: true
+  adx_manageweblinksets: true
+  adx_name: 基本ポータルの管理アクセス許可
+  adx_previewunpublishedentities: true
+  adx_websiteaccess_webrole:
+  - 864f1c93-43cc-ed11-a7c7-000d3aa0d82f
+  adx_websiteaccessid: 8a4f1c93-43cc-ed11-a7c7-000d3aa0d82f

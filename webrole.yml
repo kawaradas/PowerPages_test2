@@ -1,0 +1,12 @@
+- adx_anonymoususersrole: true
+  adx_authenticatedusersrole: false
+  adx_name: 匿名ユーザー
+  adx_webroleid: 844f1c93-43cc-ed11-a7c7-000d3aa0d82f
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: true
+  adx_name: 認証されたユーザー
+  adx_webroleid: 854f1c93-43cc-ed11-a7c7-000d3aa0d82f
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_name: 管理者
+  adx_webroleid: 864f1c93-43cc-ed11-a7c7-000d3aa0d82f
